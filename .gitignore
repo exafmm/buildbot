@@ -2,6 +2,7 @@
 buildbot.tac
 gitpoller-workdir/
 public_html/
+runtests/
 slave/
 state.sqlite
 templates/

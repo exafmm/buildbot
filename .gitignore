@@ -1,5 +1,6 @@
 *.log
 buildbot.tac
+gitpoller-workdir/
 public_html/
 slave/
 state.sqlite

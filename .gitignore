@@ -1,0 +1,7 @@
+*.log
+buildbot.tac
+public_html/
+slave/
+state.sqlite
+templates/
+twistd.pid

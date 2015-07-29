@@ -1,0 +1,9 @@
+
+restart the buildbot website
+version control {Makefile, master, TODO} as exafmm_buildbot (ignore slave)
+buildslaves on all machines in .ssh/config
+performance regression, plot time evolution of performance
+buildsteps for ./configure, CMake
+
+
+

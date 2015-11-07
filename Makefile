@@ -7,8 +7,11 @@ slave:
 master:
 	buildbot reconfig master
 
-
-# To configure slave:
+# To initialize slave:
+# export SLAVENAME="Name of your machine"
+# make slave
+#
+# To reconfigure slave:
 # make clean
 # make slave
 #

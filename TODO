@@ -1,7 +1,12 @@
-Kyoto, Yasuoka ghost slave
-performance regression, plot time evolution of performance
+Add Helmholtz
+Add Spherical
+Add LBT
+Optimize FX and SX performance
+Use batch script on Cray machines and CBRC
+Use $HOME in run command
 ./configure using buildbot.process.factory.GNUAutoconf
-buildFactories for CMake
+performance regression, plot time evolution of performance
+
 
 
 

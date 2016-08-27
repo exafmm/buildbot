@@ -12,8 +12,7 @@ master:
 # make slave
 #
 # To reconfigure slave:
-# make clean
-# make slave
+# make -B slave
 #
 # To reconfigure master (for administrator only):
 # make -B master

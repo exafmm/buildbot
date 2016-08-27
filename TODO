@@ -1,11 +1,7 @@
-Add Helmholtz
-Add Spherical
 Add LBT
 Add double
 Add wrappers
-Optimize FX and SX performance
 ./configure using buildbot.process.factory.GNUAutoconf
-performance regression, plot time evolution of performance
 
 
 

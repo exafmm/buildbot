@@ -1,8 +1,5 @@
-Add LBT
-Add double
-Add wrappers
-./configure using buildbot.process.factory.GNUAutoconf
-
-
-
-
+Remove name from ShellCommand
+" -> '
+Unify 'config =' operations
+Make command for testing all runtime options (don't do this with buildbot)
+test for mpi -n

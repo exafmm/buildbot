@@ -1,2 +1,3 @@
-Make command for testing all runtime options (don't do this with buildbot)
-test for mpi -n
+Change back "make cleanall all" to "make"
+443 needed?
+

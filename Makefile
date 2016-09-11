@@ -3,7 +3,7 @@ stop:
 clean:
 	rm -rf slave
 slave:
-	buildslave create-slave slave login.rio.gsic.titech.ac.jp $(WORKERNAME) pass
+	buildslave create-slave slave login.rio.gsic.titech.ac.jp:443 $(WORKERNAME) pass
 	buildslave start slave
 master:
 	buildbot reconfig master

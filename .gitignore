@@ -1,9 +1,8 @@
-*.log*
-buildbot.tac
-gitpoller-workdir/
-public_html/
-runtests/
-slave/
-state.sqlite
-templates/
-twistd.pid
+# ignore everything 
+*
+
+# but not these files
+!.gitignore
+!Makefile
+!TODO
+!master/master.cfg

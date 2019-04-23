@@ -3,8 +3,7 @@ import os
 from twisted.application import service
 from buildbot.master import BuildMaster
 
-basedir = '.'
-
+basedir = '/home/exafmm/buildbot/master'
 rotateLength = 10000000
 maxRotatedFiles = 10
 configfile = 'master.cfg'
@@ -14,7 +13,6 @@ umask = None
 
 # if this is a relocatable tac file, get the directory containing the TAC
 if basedir == '.':
-    import os.path
     basedir = os.path.abspath(os.path.dirname(__file__))
 
 # note: this line is matched against to check that this is a buildmaster

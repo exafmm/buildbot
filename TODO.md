@@ -1,0 +1,2 @@
+- [ ] Phantom constantly drops connection
+- [ ] Try scheduler keeps pending and cannot be killed, try using another port number rather than 9989
